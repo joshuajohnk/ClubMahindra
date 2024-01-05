@@ -1,0 +1,115 @@
+.container-fluid {
+      padding-right: 0;
+      padding-left: 0;
+  }
+
+  #navelts a {
+      color: #fdfdfd;
+  }
+
+  #navelts {
+      color: #fdfdfd;
+  }
+
+  .parallax {
+      background-image: url('./assets/hero.jpg');
+      background-size: cover;
+      background-attachment: fixed;
+      height: 100vh;
+  }
+
+ 
+
+  .seccon{
+    height: auto;
+  }
+
+#hero_head{
+    font-family: 'Merriweather', serif;
+    color: #fdfdfd;
+    padding-top: 15%;
+}
+
+#hero_subhead{
+    font-family: 'Kalam', cursive;
+    color: #fdfdfd;
+    
+}
+#main_heading{
+    font-family: 'Merriweather', serif;
+    color: #12B9E1;
+}
+
+#main_heading2{
+    font-family: 'Merriweather', serif;
+    color: #fecd3b;
+}
+
+.card{
+    width: 18rem;
+    height: 20rem;
+    border-color: #FDD359;
+    margin-bottom: 1.5rem;
+}
+
+
+#card2{
+    width: 23rem;
+    height: 30rem;
+}
+
+#body1{
+    background-color: #d36f17;
+}
+
+#body2{
+    background-color: #98BC3F;
+}
+.card img{
+   
+}
+
+#cardtype1 img{
+    width: 18rem;
+    height: 20rem;
+}
+
+.card-title{
+color: #fdfdfd;
+font-weight: 600;
+font-family: 'Merriweather', serif;
+text-align: center;
+}
+
+.card-text2{
+    color: #fdfdfd;
+    font-weight: 400;
+    font-family: 'Lora', serif;
+    text-align: center;
+}
+
+.card-text{
+    color: #fdfdfd;
+    font-weight: 400;
+    font-family: 'Lora', serif;
+    text-align: left;
+}
+
+.subhead{
+    text-align: justify;
+    font-family: 'Merriweather', serif;
+}
+
+.bodytext{
+    text-align: justify;
+    font-family: 'Lora', serif;
+    color: rgb(65, 65, 65);
+}
+
+.aboutsec,.popsec{
+    background-color: #e1f5b1d6;
+}
+
+.packsec{
+    background-color: #caeef7;
+}
